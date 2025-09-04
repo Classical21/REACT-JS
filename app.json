@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Jaylaa",
+    "slug": "Jaylaa",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./App/assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./App/assets/background.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./App/assets/background.jpg",
+        "backgroundColor": "#ffffff"
+        
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./App/assets/background.jpg"
+    }
+  }
+}
+
